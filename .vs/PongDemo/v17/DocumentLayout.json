@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Users\\Amandha\\Documents\\Unity\\PongDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A85702C7-3FE7-91E3-81A6-70E6D551DE72}|Assembly-CSharp.csproj|f:\\users\\amandha\\documents\\unity\\pongdemo\\assets\\sripts\\modulo\\ponggamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85702C7-3FE7-91E3-81A6-70E6D551DE72}|Assembly-CSharp.csproj|solutionrelative:assets\\sripts\\modulo\\ponggamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85702C7-3FE7-91E3-81A6-70E6D551DE72}|Assembly-CSharp.csproj|f:\\users\\amandha\\documents\\unity\\pongdemo\\assets\\sripts\\modulo\\pongballcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85702C7-3FE7-91E3-81A6-70E6D551DE72}|Assembly-CSharp.csproj|solutionrelative:assets\\sripts\\modulo\\pongballcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85702C7-3FE7-91E3-81A6-70E6D551DE72}|Assembly-CSharp.csproj|f:\\users\\amandha\\documents\\unity\\pongdemo\\assets\\sripts\\modulo\\pongplayerpaddlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85702C7-3FE7-91E3-81A6-70E6D551DE72}|Assembly-CSharp.csproj|solutionrelative:assets\\sripts\\modulo\\pongplayerpaddlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85702C7-3FE7-91E3-81A6-70E6D551DE72}|Assembly-CSharp.csproj|f:\\users\\amandha\\documents\\unity\\pongdemo\\assets\\sripts\\modulo\\pongenemypaddlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85702C7-3FE7-91E3-81A6-70E6D551DE72}|Assembly-CSharp.csproj|solutionrelative:assets\\sripts\\modulo\\pongenemypaddlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PongGameManager.cs",
+              "DocumentMoniker": "F:\\Users\\Amandha\\Documents\\Unity\\PongDemo\\Assets\\Sripts\\Modulo\\PongGameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Sripts\\Modulo\\PongGameManager.cs",
+              "ToolTip": "F:\\Users\\Amandha\\Documents\\Unity\\PongDemo\\Assets\\Sripts\\Modulo\\PongGameManager.cs",
+              "RelativeToolTip": "Assets\\Sripts\\Modulo\\PongGameManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T19:46:33.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PongEnemyPaddleController.cs",
+              "DocumentMoniker": "F:\\Users\\Amandha\\Documents\\Unity\\PongDemo\\Assets\\Sripts\\Modulo\\PongEnemyPaddleController.cs",
+              "RelativeDocumentMoniker": "Assets\\Sripts\\Modulo\\PongEnemyPaddleController.cs",
+              "ToolTip": "F:\\Users\\Amandha\\Documents\\Unity\\PongDemo\\Assets\\Sripts\\Modulo\\PongEnemyPaddleController.cs",
+              "RelativeToolTip": "Assets\\Sripts\\Modulo\\PongEnemyPaddleController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T19:44:35.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PongPlayerPaddleController.cs",
+              "DocumentMoniker": "F:\\Users\\Amandha\\Documents\\Unity\\PongDemo\\Assets\\Sripts\\Modulo\\PongPlayerPaddleController.cs",
+              "RelativeDocumentMoniker": "Assets\\Sripts\\Modulo\\PongPlayerPaddleController.cs",
+              "ToolTip": "F:\\Users\\Amandha\\Documents\\Unity\\PongDemo\\Assets\\Sripts\\Modulo\\PongPlayerPaddleController.cs",
+              "RelativeToolTip": "Assets\\Sripts\\Modulo\\PongPlayerPaddleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T19:41:44.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PongBallController.cs",
+              "DocumentMoniker": "F:\\Users\\Amandha\\Documents\\Unity\\PongDemo\\Assets\\Sripts\\Modulo\\PongBallController.cs",
+              "RelativeDocumentMoniker": "Assets\\Sripts\\Modulo\\PongBallController.cs",
+              "ToolTip": "F:\\Users\\Amandha\\Documents\\Unity\\PongDemo\\Assets\\Sripts\\Modulo\\PongBallController.cs",
+              "RelativeToolTip": "Assets\\Sripts\\Modulo\\PongBallController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T19:39:45.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
